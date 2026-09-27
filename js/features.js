@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://files.catbox.moe/xmzewt.m4a';
+    var SRC = 'https://github.com/Miyac33/mint-chocolate/raw/refs/heads/main/ScreenRecording_09-28-2026%2000-00-17_1.m4a';
     var _audio = null;
     var _unlockBound = false;
 
